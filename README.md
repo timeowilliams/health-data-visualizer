@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://unsplash.com/photos/black-digital-alarm-clock-at-11-00-toX2sYnycCw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" width="100%" height="200px" alt="DreamTracker Logo">
+<img src="https://images.unsplash.com/photo-1585128719715-46776b56a0d1?q=80&w=3416&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" height="200px" alt="DreamTracker Logo">
 </div>
 
 <h1 align="center">
