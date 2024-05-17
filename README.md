@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://unsplash.com/photos/black-digital-alarm-clock-at-11-00-toX2sYnycCw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash" width="100%" height="200px" alt="DreamTracker Logo">
+</div>
+
 <h1 align="center">
 DreamTracker
 </h1>
@@ -17,11 +21,9 @@ Visualize your sleep, optimize your rest.  </p>
   </p>
 </div>
 
-
 ## Getting Started
 
 Please, read the [Getting Started Documentation](https://github.com/timeowilliams/health-data-visualizer/tree/main/docs#remix-saas-documentation) to run this locally.
-
 
 ## Tech Stack
 
@@ -36,4 +38,3 @@ ShadCN
 ## Acknowledgments
 
 Built on top of https://github.com/dev-xo/remix-saas
-
