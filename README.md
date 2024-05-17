@@ -9,7 +9,7 @@ Visualize your sleep, optimize your rest.  </p>
 
 <div align="center">
   <p>
-    <a href="">Live Demo</a>
+    <a href="">Live Demo (to be updated)</a>
     ·
     <a href="https://github.com/timeowilliams/health-data-visualizertree/main/docs">Documentation</a>
     ·
@@ -20,8 +20,18 @@ Visualize your sleep, optimize your rest.  </p>
 
 ## Getting Started
 
-Please, read the [Getting Started Documentation](https://github.com/timeowilliams/health-data-visualizer/tree/main/docs#remix-saas-documentation) to successfully initialize your **Remix SaaS** Template.
+Please, read the [Getting Started Documentation](https://github.com/timeowilliams/health-data-visualizer/tree/main/docs#remix-saas-documentation) to run this locally.
 
+
+## Tech Stack
+
+React
+Remix
+Prisma
+TailwindCSS
+Vite
+Resend
+ShadCN
 
 ## Acknowledgments
 
