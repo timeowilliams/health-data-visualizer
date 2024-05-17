@@ -1,7 +1,8 @@
 {
-  "name": "health-data-visualized",
+  "name": "health-data-visualizer",
   "private": true,
   "description": "A view of sleep data. Built on top of Remix Saas (https://github.com/dev-xo/remix-saas)",
+  "repository": "timeowilliams/health-data-visualizer",
   "author": "Timeo Williams (https://twitter.com/timeowilliams)",
   "sideEffects": false,
   "type": "module",
